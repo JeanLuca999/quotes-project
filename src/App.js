@@ -26,8 +26,6 @@ function App() {
   }
   
   
-  console.log('mostrando favorites ',favorites)
-  
   function setAsFavorite(author, text) {
     const quote = {
       author: author,
