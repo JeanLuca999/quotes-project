@@ -15,5 +15,11 @@ Quotes Project é um site que consome uma API externa e permite o usuário salva
 # Preview do Projeto
 
 ![preview01](./public/preview01.PNG)
+
+<hr/>
+
 ![preview02](./public/preview02.PNG)
+
+<hr/>
+
 ![preview03](./public/preview03.PNG)
