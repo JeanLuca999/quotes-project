@@ -10,7 +10,7 @@ Quotes Project é um site que consome uma API externa e permite o usuário salva
 * Fetch API
 
 # 💽 Como Iniciar o Projeto
-`npm start`
+utilize `npm start`
 
 # Preview do Projeto
 
